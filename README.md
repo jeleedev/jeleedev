@@ -18,14 +18,14 @@
 
 
 
-### Stacks 🕵️‍♀️🧜‍♀️
-#### Language
+### Stacks 🕵️‍♀️
+#### ✍ Language
 C# Javascript Python
 
-#### Front-End
+#### 🎨 Front-End
 HTML CSS
 
-#### Back-End
+#### 🧶 Back-End
 .Net SqlServer 
 Node.js MongoDB  
 

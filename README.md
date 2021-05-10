@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 🤘 Let's Start
@@ -18,7 +18,7 @@
 
 
 
-### Stacks 🕵️‍♀️
+## Stacks 🕵️‍♀️
 #### ✍ Language
 C# Javascript Python
 

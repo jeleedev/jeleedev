@@ -16,12 +16,18 @@
    - Express
    - GraphQL
 
+
+
 ### 🎨 Stacks
 #### Language
+C# Javascript Python
 
 #### Front-End
+HTML CSS
 
 #### Back-End
+.Net SqlServer 
+Node.js MongoDB  
 
 
 

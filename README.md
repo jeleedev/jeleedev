@@ -12,7 +12,7 @@
    - 마지막으로, 먹는 것과 여행다니는 것을 삶의 원동력으로 생각합니다 🍝✈🌎
 
 🌱 I’m currently learning ...
-   Web Programming - <img width="80%" src="https://user-images.githubusercontent.com/39111959/117672979-51a00200-b1e5-11eb-8b1d-989a44077a53.png"/>
+   Web Programming - <img width="80" src="https://user-images.githubusercontent.com/39111959/117674523-b14add00-b1e6-11eb-86e7-62481b835ab4.png"/>
 
 
 

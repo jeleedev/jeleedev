@@ -16,6 +16,13 @@
    - Express
    - GraphQL
 
+### 🎨 Stacks
+#### Language
+
+#### Front-End
+
+#### Back-End
+
 
 
 

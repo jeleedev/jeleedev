@@ -18,7 +18,7 @@
 
 
 
-### 🎨 Stacks
+### Stacks 🕵️‍♀️🧜‍♀️
 #### Language
 C# Javascript Python
 

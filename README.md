@@ -4,7 +4,6 @@
 
 const NOTICE = '2021년 05월 10일을 기점으로 새마음 새뜻으로 시작합니다 :)'
 
-// Introduce myself
 class JIEUN_LEE{
    const name           = 'JIEUN LEE';
    const goal           = 'Web Backend Developer';

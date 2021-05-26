@@ -2,7 +2,7 @@
 
 ```javascript
 
-const NOTICE = '2021년 05월 10일을 기점으로 새마음 새뜻으로 시작합니다 :)'
+const NOTICE = 'Welcome to eazysilver world!';
 
 class JIEUN_LEE{
    const name           = 'JIEUN LEE';
@@ -15,8 +15,8 @@ class JIEUN_LEE{
    const favoriteThings = ['making plans', 'foods', 'trip'];
 }
 
-```
-
+```  
+ㅤ  
 ## 📚 My Stacks
 #### • Front-End
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=222222"/></a>

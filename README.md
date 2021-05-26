@@ -37,6 +37,10 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a>
 
+## ⚡ Web Project
+[kakao-clone](https://eazisilver.github.io/kakao-clone/)  
+youtube-clone `진행중`
+
 
 ## 🔥 Interest
 <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-squar&logo=node-dot-js&logoColor=222222"/></a>

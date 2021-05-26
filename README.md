@@ -11,25 +11,28 @@
    - MBTI유형은 **ESTJ**형으로 계획적이고 체계적인 것을 좋아합니다 📆 (~~1일 1계획 성애자~~)
    - 마지막으로, 먹는 것과 여행다니는 것을 삶의 원동력으로 생각합니다 🍝✈🌎
 
-🌱 I’m currently learning ...
-   - Node.js
-   - Express
-   - GraphQL
-
+👀 What am I focused on...
+   - `NodeJS`
+   - `Express`
+   - `GraphQL`
+   - `TypeScript`
 
 
 ## Stacks 🕵️‍♀️
-#### ✍ Language
-C# Javascript Python
-
 #### 🎨 Front-End
-HTML CSS
+- `Javascript` `HTML5` `CSS3`
 
-#### 🧶 Back-End
-.Net SqlServer 
-Node.js MongoDB  
+#### ✍ Back-End
+- `NodeJS` `Express` 
+- `C#` `.Net Framework` 
 
+#### 🥫 Database
+- `MongoDB` `MS-SQL`
 
+#### 🧰 Tool
+- `Visual Studio Code`   `Visual Studio 2017`   `SSMS`
+- `Github`  `Team Foundation Server`
+- `Slack`   `Notion`
 
 
 <!--

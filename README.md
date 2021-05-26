@@ -1,15 +1,22 @@
 ## Hi there 👋
 
-✨ Let's Start
-   - 2021년 05월 10일을 기점으로 새마음 새뜻으로 시작합니다 :)
-       
-👩 Introduce myself
-   - 현재 제조업 응용프로그램을 개발하고 있고, Web Backend 개발자를 준비하고 있습니다.
-   - 하고 싶은 일을 찾아나섭니다.
-   - 목표한 것은 쉽게 놓지 않으려 노력합니다.
-   - 지금은 `도전중` 상태 입니다.
-   - MBTI유형이 **ESTJ**형으로 계획적이고 체계적인 것을 좋아합니다. (~~1일 1계획 성애자~~)
-   - 마지막으로, 먹는 것과 여행다니는 것을 삶의 원동력으로 생각합니다.
+```javascript
+
+const NOTICE = '2021년 05월 10일을 기점으로 새마음 새뜻으로 시작합니다 :)'
+
+// Introduce myself
+class JIEUN_LEE{
+   const name           = 'JIEUN LEE';
+   const goal           = 'Web Backend Developer';
+   const status         = 'Challenging';
+   const goodThings     = [ {'work'      : 'windows application development'}
+                           ,{'life'      : 'Finding what I want to do'}
+                           ,{'character' : 'Active & full of passion'}
+                          ];
+   const favoriteThings = ['making plans', 'foods', 'trip'];
+}
+
+```
 
 ## 📚 My Stacks
 #### • Front-End

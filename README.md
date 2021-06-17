@@ -43,6 +43,5 @@ youtube-clone `진행중`
 ## 🔥 Interest
 <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-squar&logo=node-dot-js&logoColor=222222"/></a>
 <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=Express&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 

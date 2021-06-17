@@ -5,7 +5,7 @@
        
 👩 Introduce myself
    - 현재 응용 프로그램을 개발하고 있습니다
-   - **Web Backend 개발자**를 준비하고 있습니다.
+   - **Web Backend** 기술을 공부하고 있습니다
  
 ㅤ  
 ## 📚 My Stacks

@@ -6,6 +6,7 @@
 👩 Introduce myself
    - 현재 응용 프로그램을 개발하고 있습니다.
    - **Web Backend** 개발에 관심을 가지고 공부중입니다.
+   - linkedIn | www.linkedin.com/in/eazysilver
  
 ㅤ  
 ## 📚 My Stacks

@@ -1,8 +1,6 @@
 # Hi there 👋
 
 ## 👩 Introduce myself
-   - C# .NET기반 SI개발 만 3년
-   - **Web Backend**로 이직 준비중
    - linkedIn | www.linkedin.com/in/eazysilver  
 &nbsp;
 ## 💡 Web side projects

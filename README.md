@@ -9,6 +9,9 @@
 - Chrome app &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/eazisilver/chrome-app-todoList) 
 - Kakao clone &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/eazisilver/kakao-clone)  
 &nbsp;
+## 💡 Study
+- NEXTSTEP 블랙커피 스터디 Lv1 [repository](https://github.com/eazisilver/js-todo-list-step1.git)  
+&nbsp;
 ## 📚 My Stacks
 - Front-End  
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=222222"/></a>

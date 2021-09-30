@@ -43,3 +43,5 @@
 <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=Express&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 
+# Blog
+[![Tistory Badge](https://tistory-readme-stats.vercel.app/api/badge?name=jeleedev)](https://jeleedev.tistory.com/)

@@ -44,4 +44,4 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 
 # Blog
-[![Tistory Badge](https://tistory-readme-stats.vercel.app/api/badge?name=jeleedev)](https://jeleedev.tistory.com/)
+[![Post Card](https://tistory-readme-stats.vercel.app/api?name=jeleedev&description=Today, I Learned)](https://jeleedev.tistory.com/)

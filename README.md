@@ -1,13 +1,16 @@
 # Hi there 👋
-
+안녕하세요! 백엔드 개발자 이지은 입니다.
 &nbsp;
-### 🌻️ Side projects
-- Dwitter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[portfolio](https://dwitter-cl.netlify.app/)  
+## 👩‍💻️ My Project
+- Westarbucks &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/eazisilver/westarbucks.git)
+&nbsp;
+## 🌻️ Side projects
+- Dwitter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[portfolio](https://dwitter-cl.netlify.app/)  
 - Chrome app &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/eazisilver/chrome-app-todoList) 
 - Kakao clone &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/eazisilver/kakao-clone)  
 - ☕ NEXTSTEP 블랙커피 스터디 [step1-repository](https://github.com/eazisilver/js-todo-list-step1.git)
 &nbsp;
-### 🌷 My Stacks
+## 🌷 My Stacks
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=222222"/></a>
@@ -21,5 +24,5 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a>  
 &nbsp;
-### ✨️ My Blog
+## ✨️ My Blog
 [![Post Card](https://tistory-readme-stats.vercel.app/api?name=jeleedev&description=👉%EF%B8%8F+Today+I+Learned+✨%EF%B8%8F🤓)](https://jeleedev.tistory.com/)

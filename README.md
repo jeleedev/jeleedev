@@ -6,7 +6,7 @@
 - **Westagram** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/eazisilver/my_westagram.git)
 &nbsp;
 ## 🌻️ Side projects
-- Dwitter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[portfolio](https://dwitter-cl.netlify.app/)  
+- Dwitter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[portfolio](https://dwitter-cl.netlify.app/) [ 🔐️repository](https://github.com/eazisilver/dwitter.git)
 - Chrome app &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/eazisilver/chrome-app-todoList) 
 - Kakao clone &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/eazisilver/kakao-clone)  
 - ☕ NEXTSTEP 블랙커피 스터디 [step1-repository](https://github.com/eazisilver/js-todo-list-step1.git)

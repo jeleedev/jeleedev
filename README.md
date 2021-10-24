@@ -3,6 +3,7 @@
 &nbsp;
 ## 👩‍💻️ My Project
 - Westarbucks &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/eazisilver/westarbucks.git)
+- **Westagram** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/eazisilver/my_westagram.git)
 &nbsp;
 ## 🌻️ Side projects
 - Dwitter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[portfolio](https://dwitter-cl.netlify.app/)  

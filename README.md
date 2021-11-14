@@ -2,8 +2,9 @@
 안녕하세요! 백엔드 개발자 이지은 입니다.
 &nbsp;
 ## 👩‍💻️ My Project
+- Nike 클론 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/eazisilver/Nike-clone.git)
+- Westagram &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/eazisilver/my_westagram.git)
 - Westarbucks &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/eazisilver/westarbucks.git)
-- **Westagram** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/eazisilver/my_westagram.git)
 &nbsp;
 ## 🌻️ Side projects
 - Dwitter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[portfolio](https://dwitter-cl.netlify.app/) [ 🔐️repository](https://github.com/eazisilver/dwitter.git)

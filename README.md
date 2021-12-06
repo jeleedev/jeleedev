@@ -2,11 +2,11 @@
 안녕하세요! 백엔드 개발자 이지은 입니다.
 &nbsp;
 ## 👩‍💻️ My Project
-- 에어비앤비 클론 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/wecode-bootcamp-korea/26-2nd-WeAreBnB-backend)
+- 에어비앤비 클론 &nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/wecode-bootcamp-korea/26-2nd-WeAreBnB-backend)
 - 나이키 클론 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/wecode-bootcamp-korea/26-1st-LIKE-backend)
 &nbsp;
 ## 🌻️ Side projects
-- Dwitter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[portfolio](https://dwitter-cl.netlify.app/) [ 🔐️repository](https://github.com/eazisilver/dwitter.git)
+- Dwitter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[link](https://dwitter-cl.netlify.app/)
 - Chrome app &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/eazisilver/chrome-app-todoList) 
 - Kakao clone &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[repository](https://github.com/eazisilver/kakao-clone)  
 - ☕ NEXTSTEP 블랙커피 스터디 [step1-repository](https://github.com/eazisilver/js-todo-list-step1.git)

@@ -3,7 +3,7 @@
 
 ## Projects
 - Team Proejct
-  - [크롬이노베이션 아비봇 웹 개편 협업 프로젝트](https://github.com/jeleedev/crom-arbi-web)
+  - [크롬이노베이션 기업협업 프로젝트(아비봇 서비스 고도화)](https://github.com/jeleedev/crom-arbi-web)
   - [에어비앤비 클론 프로젝트](https://github.com/wecode-bootcamp-korea/26-2nd-WeAreBnB-backend)
   - [나이키 클론 프로젝트](https://github.com/wecode-bootcamp-korea/26-1st-LIKE-backend)
  

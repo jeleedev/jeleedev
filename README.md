@@ -1,24 +1,25 @@
 # Hi there 👋
 안녕하세요. 백엔드 개발자 이지은입니다.
 
-## Project 🤓️
+## Projects
 - Team Proejct
+  - [크롬이노베이션 아비봇 웹 개편 협업 프로젝트](https://github.com/jeleedev/crom-arbi-web)
   - [에어비앤비 클론 프로젝트](https://github.com/wecode-bootcamp-korea/26-2nd-WeAreBnB-backend)
   - [나이키 클론 프로젝트](https://github.com/wecode-bootcamp-korea/26-1st-LIKE-backend)
  
 - Side Project
   - [트위터 클론 프로젝트](https://dwitter-cl.netlify.app/)
-  - [크롬 메인페이지 앱](https://github.com/eazisilver/chrome-app-todoList) 
-  - [카카오톡 클론 프로젝트](https://github.com/eazisilver/kakao-clone)  
-  - [NEXTSTEP 블랙커피 스터디 ☕](https://github.com/eazisilver/js-todo-list-step1.git)
+  - [크롬 메인페이지 앱](https://github.com/jeleedev/chrome-app-todoList) 
+  - [카카오톡 클론 프로젝트](https://github.com/jeleedev/kakao-clone)  
+  - [NEXTSTEP 블랙커피 스터디 ☕](https://github.com/jeleedev/js-todo-list-step1.git)
 
-## Skills 🔥️
+## Skills
 ### Back-End
-> Python, Django, Node.js, RDB, SQL, AWS (EC2, RDS, S3), Docker
+> Node.js, Express.js, Python, Django, MySQL, MSSQL, SQL, AWS(EC2, RDS, S3), Docker
 #### Front-End
 > JavaScript, HTML/CSS
 ### General
-> Git & GitHub, Slack, Trello, Postman
+> Ubuntu, Git/GitHub, Slack, Trello, Postman
 
 <!--
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>

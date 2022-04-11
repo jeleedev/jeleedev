@@ -1,6 +1,8 @@
 # Hi there 👋
 안녕하세요. 백엔드 개발자 이지은입니다.
 
+&nbsp; 
+<!--
 ## Projects
 - Team Proejct
   - [크롬이노베이션 기업협업 프로젝트(아비봇 서비스 고도화)](https://github.com/jeleedev/crom-arbi-web)
@@ -11,8 +13,7 @@
   - [트위터 클론 프로젝트](https://dwitter-cl.netlify.app/)
   - [크롬 메인페이지 앱](https://github.com/jeleedev/chrome-app-todoList) 
   - [카카오톡 클론 프로젝트](https://github.com/jeleedev/kakao-clone)  
-  - [NEXTSTEP 블랙커피 스터디 ☕](https://github.com/jeleedev/js-todo-list-step1.git)
-
+-->
 ## Skills
 ### Back-End
 > Node.js, Express.js, Python, Django, MySQL, MSSQL, SQL, AWS(EC2, RDS, S3), Docker

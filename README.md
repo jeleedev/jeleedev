@@ -1,8 +1,9 @@
+<!--
 # Hi there 👋
 안녕하세요. 백엔드 개발자 이지은입니다.
 
 &nbsp; 
-<!--
+
 ## Projects
 - Team Proejct
   - [크롬이노베이션 기업협업 프로젝트(아비봇 서비스 고도화)](https://github.com/jeleedev/crom-arbi-web)
@@ -13,7 +14,7 @@
   - [트위터 클론 프로젝트](https://dwitter-cl.netlify.app/)
   - [크롬 메인페이지 앱](https://github.com/jeleedev/chrome-app-todoList) 
   - [카카오톡 클론 프로젝트](https://github.com/jeleedev/kakao-clone)  
--->
+
 ## Skills
 ### Back-End
 > Node.js, Express.js, Python, Django, MySQL, MSSQL, SQL, AWS(EC2, RDS, S3), Docker
@@ -21,7 +22,7 @@
 > JavaScript, HTML/CSS
 ### General
 > Ubuntu, Git/GitHub, Slack, Trello, Postman
-
+-->
 <!--
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -35,7 +36,8 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a>  
--->
+
 &nbsp;
 ## My Blog ✨️
 [![Post Card](https://tistory-readme-stats.vercel.app/api?name=jeleedev&description=👉%EF%B8%8F+Today+I+Learned+✨%EF%B8%8F🤓)](https://jeleedev.tistory.com/)
+-->
